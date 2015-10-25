@@ -1,1 +1,7 @@
-
+{
+  "name": "Remote",
+  "author": "NZRosto",
+  "license": "MIT",
+  "version": "1.0",
+  "description": "A simple library that illustrates coding conventions of a Spark Library"
+}
